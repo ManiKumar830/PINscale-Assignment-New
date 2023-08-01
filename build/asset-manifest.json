@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PINscale-Assignment/static/css/main.07aed56c.chunk.css",
+    "main.js": "/PINscale-Assignment/static/js/main.7531859d.chunk.js",
+    "main.js.map": "/PINscale-Assignment/static/js/main.7531859d.chunk.js.map",
+    "runtime-main.js": "/PINscale-Assignment/static/js/runtime-main.baaa2ea6.js",
+    "runtime-main.js.map": "/PINscale-Assignment/static/js/runtime-main.baaa2ea6.js.map",
+    "static/js/2.6e10940c.chunk.js": "/PINscale-Assignment/static/js/2.6e10940c.chunk.js",
+    "static/js/2.6e10940c.chunk.js.map": "/PINscale-Assignment/static/js/2.6e10940c.chunk.js.map",
+    "index.html": "/PINscale-Assignment/index.html",
+    "static/css/main.07aed56c.chunk.css.map": "/PINscale-Assignment/static/css/main.07aed56c.chunk.css.map",
+    "static/js/2.6e10940c.chunk.js.LICENSE.txt": "/PINscale-Assignment/static/js/2.6e10940c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baaa2ea6.js",
+    "static/js/2.6e10940c.chunk.js",
+    "static/css/main.07aed56c.chunk.css",
+    "static/js/main.7531859d.chunk.js"
+  ]
+}
